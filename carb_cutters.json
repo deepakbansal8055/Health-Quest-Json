@@ -1,0 +1,2024 @@
+[
+    {
+        "id":"carb_cutters",
+        "displayName":"Carb Cutters",
+        "shortDescription":"Learn to identify the sneaky sugars hiding in carbs and how they affect your health.",
+        "longDescription":"This HealthQuest will show you how foods high in carbohydrates, such as breads, potatoes, and pastas, can affect your blood sugar and your overall health.<p>Over the course of four sessions, you'll identify some of your triggers (in other words, why you're eating carbs), and try out some tweaks<&mdash>small ways to cut back, little by little. You'll come away with a new approach to carbs in just four to eight weeks.",
+        "maxEntriesPerDay":30,
+        "maxCommentLength":140,
+
+        "smallImageUrl":"https://drive.google.com/file/d/0Bwr0Cg4GAQg3LXBXNnpBOFdlUDg/view",
+        "sessionDuration":{
+            "value":14,
+            "unit":"DAYS"
+        },
+        "resourceData":{
+            "resourceList":[
+                {
+                    "title":"10 Convenient Low-Carb Snacks",
+                    "description":"Consider this the perfect place to start brainstorming healthy work snacks that you can simply buy or quickly prepare.",
+                    "link":"https://www.livestrong.com/slideshow/558045-8-convenient-low-carb-snacks/"
+                },
+                {
+                    "title":"American Heart Association: Recipes",
+                    "description":"While not everything here is low-carb, you can search by \"Ingredients\" to get recipes focused on meat and vegetables (versus pasta and grains). Click on the View Full Nutrition Info link on any recipe to see the carb count.",
+                    "link":"https://recipes.heart.org/categories"
+                },
+                {
+                    "title":"American Diabetes Association: MyFood Advisor",
+                    "description":"A wonderful resource for people with or without diabetes, this site contains meal plans and even a handy grocery list generator. Check back often to see new featured recipes.",
+                    "link":"http://www.diabetes.org/mfa-recipes/meal-plans/?loc=hottopics"
+                },
+                {
+                    "title":"USDA Food Composition Databases",
+                    "description":"Check carbohydrate counts for common foods and ingredients.",
+                    "link":"https://ndb.nal.usda.gov/ndb/nutrients/index"
+                }
+            ],
+            "takeawayList":[
+                {
+                    "title":"HealthQuest Takeaways",
+                    "description":"Download this document to keep your HealthQuest learnings at your fingertips.",
+                    "link":"https://www.youtube.com"
+                }
+            ]
+        },
+        "preferenceData":{
+            "header":"Your Preference Preference Data",
+            "description":"It's upto you! How do want to stay on track? For Preference Data",
+            "cardToShowIfCompletePair":[
+
+            ]
+        },
+        "questSessionList":{
+            "carb_cutters.session_1":{
+                "id":"carb_cutters.session_1",
+                "order":1,
+                "currentDate":"2017-11-24",
+                "displayName":"Session 1",
+                "description":"Carb awareness",
+                "sessionDuration":{
+                    "value":14,
+                    "unit":"DAYS"
+                },
+                "questPhaseList":[
+                    {
+                        "id":"carb_cutters.session_1.learn",
+                        "order":1,
+                        "displayName":"Learn",
+                        "categoryList":[
+                            {
+                                "id":"carb_cutters.session_1.learn.welcome",
+                                "order":1,
+                                "displayName":"Welcome",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_1.learn.welcome.page1",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.welcome.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Welcome to Carb Cutters, name ",
+                                                "description":"Nice to meet you, Description goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_1.learn.welcome.page2",
+                                        "order":2,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.welcome.page2.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Here is How this works, header of page2, card1",
+                                                "description":" To complete the Description.. update the json.....",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here for back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Tell me more\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\" I am in the mid\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_1.learn.welcome.page3",
+                                        "order":2,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.welcome.page3.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"What is the difference babe ?, header of page3, card1",
+                                                "description":"Let's look into your future...and... update the json.....",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here for back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"How will I remember?\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\" I am in the mid\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_1.learn.welcome.page4",
+                                        "order":2,
+                                        "templateId":"PREFERENCES",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.welcome.page4.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"I am here to help!",
+                                                "description":"I will be sending Description goes here! please update later",
+                                                "cardTitle":"Card title goes here.",
+                                                "cardDescription":"Card desc goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"All Set\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"LEARN_PREFERENCES",
+                                                "email":"q@q.com",
+                                                "phone":"9999999999",
+                                                "modeOfContact":"EMAIL"
+
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_1.learn.welcome.page5",
+                                        "order":2,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.welcome.page5.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"All right!!!",
+                                                "description":"Description",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "duration":"5 min"
+                            },
+                            {
+                                "id":"carb_cutters.session_1.learn.introduction",
+                                "order":2,
+                                "displayName":"Introduction",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_1.learn.introduction.page1",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.introduction.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Carb-Cutters:What's it all about",
+                                                "description":"Nice to meet you, Description goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Got it!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"ass\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_1.learn.introduction.page2",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.introduction.page2.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Session1: Carb Awareness",
+                                                "description":" Curb it!!!!.. update the json.....",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here for back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Ready to Learn!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\" I am in the mid\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "duration":"2 min."
+                            },
+                            {
+                                "id":"carb_cutters.session_1.video_and_quiz",
+                                "order":1,
+                                "displayName":"Video & Quiz",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_1.learn.video_and_quiz.page1",
+                                        "order":1,
+                                        "templateId":"VIDEO_AND_QUIZ",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.video_and_quiz.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Let me fire up the ol' projector",
+                                                "description":"Some description about the quiz",
+                                                "cardType":"TALE"
+                                            },
+                                            {
+                                                "id":"carb_cutters.session_1.learn.video_and_quiz.page1.card2",
+                                                "videoUrl":"//fast.wistia.net/embed/iframe/01mwsgmecg",
+                                                "cardType":"VIDEO"
+                                            },
+                                            {
+                                                "id":"carb_cutters.session_1.learn.video_and_quiz.page1.card3",
+                                                "questions":[
+                                                    {
+                                                        "questionId":"question1",
+                                                        "selectedOptionId":[
+
+                                                        ],
+                                                        "questionType":"RADIO",
+                                                        "questionText":"Which is your favourite animal?",
+                                                        "optionsList":[
+                                                            {
+                                                                "optionId":"option1",
+                                                                "optionText":"Cat",
+                                                                "description":"Cat is my favourite."
+                                                            },
+                                                            {
+                                                                "optionId":"option2",
+                                                                "optionText":"Dog",
+                                                                "description":"Dog is my favourite."
+                                                            }
+                                                        ],
+                                                        "correctAnswers":[
+                                                            "option1"
+                                                        ],
+                                                        "questionLeftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                        "questionRightButton":"{\"vendorName\":\"\",\"text\":\"Submit\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                        "answerLeftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                        "answerRightButton":"{\"vendorName\":\"\",\"text\":\"Next\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                                    },
+                                                    {
+                                                        "questionId":"question2",
+                                                        "selectedOptionId":[
+
+                                                        ],
+                                                        "questionType":"RADIO",
+                                                        "questionText":"How do you feel?",
+                                                        "optionsList":[
+                                                            {
+                                                                "optionId":"option1",
+                                                                "optionText":"I feel good!",
+                                                                "description":"some description"
+                                                            },
+                                                            {
+                                                                "optionId":"option2",
+                                                                "optionText":"I feel sad.",
+                                                                "description":"some decs"
+                                                            }
+                                                        ],
+                                                        "correctAnswers":[
+
+                                                        ],
+                                                        "questionLeftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                        "questionRightButton":"{\"vendorName\":\"\",\"text\":\"Next\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                        "answerLeftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                        "answerRightButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                                    }
+                                                ],
+                                                "cardType":"QUIZ"
+                                            }
+                                        ],
+                                        "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                        "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                    }
+                                ],
+                                "duration":"6 min."
+                            },
+                            {
+                                "id":"carb_cutters.session_1.learn.lesson",
+                                "order":1,
+                                "displayName":"Lesson",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_1.learn.lesson.page1",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.lesson.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Now, let's review the common culprits!!",
+                                                "description":"You are a culprit, Do you need ? hahaha",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Tell me more..\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_1.learn.lesson.page2",
+                                        "order":2,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.lesson.page2.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Substitute this, header of page2, card1",
+                                                "description":" To complete the Description.. update the json.....",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here for back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Tell me more\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\" I am in the mid\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_1.learn.lesson.page3",
+                                        "order":3,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.learn.lesson.page3.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Ding, ding, ding, header of page3, card1",
+                                                "description":"Let's look into your future...and... update the json.....",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here for back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"How will I remember?\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\" I am in the mid\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "duration":"2 min."
+                            },
+                            {
+                      			    "id":"carb_cutters.session_1.learn.hide",
+                                "order":1,
+                                "displayName":"HIDE",
+                                "categoryType":"HIDDEN",
+                                "pageList":[
+                                 {
+                                      "id":"carb_cutters.session_1.learn.hide.page1",
+                                      "order":1,
+                                      "templateId":"PRIMARY",
+                                      "cardList":[
+                                      {
+                                                       "id":"carb_cutters.session_1.learn.hide.page1.card1",
+                                                       "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                       "header":"What is the difference ?, header of page3, card1",
+                                                       "description":"Let's look into your future...and... update the json.....",
+                                                       "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here for back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                       "rightButton":"{\"vendorName\":\"\",\"text\":\"How will I remember?\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                       "middleButton":"{\"vendorName\":\"\",\"text\":\" I am in the mid\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                       "cardType":"TEXT"
+                                      }
+                                      ]
+                                  }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id":"carb_cutters.session_1.track",
+                        "order":2,
+                        "displayName":"Track",
+                        "categoryList":[
+                            {
+                                "id":"carb_cutters.session_1.track.tracking_instructions",
+                                "order":1,
+                                "displayName":"Tracking Instructions",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_1.track.tracking_instructions.page1",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.track.tracking_instructions.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"How it works?????",
+                                                "description":"Nice to meet you, Description goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_1.track.tracking_instructions.page2",
+                                        "order":2,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.track.tracking_instructions.page2",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Tracking Guidelines ",
+                                                "description":"Nice to meet you, Description goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "duration":"5 min"
+                            },
+                            {
+                                "id":"carb_cutters.session_1.track.tracking_period",
+                                "order":1,
+                                "displayName":"Tracking Period",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_1.track.tracking_period.page1",
+                                        "order":1,
+                                        "templateId":"TRACK",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_1.track.tracking_period.page1.card1",
+                                                "header":"Time to track your carbs",
+                                                "imageUrl":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "contentText":"'<h5>Your daily goal is 250g carbs or less</h5><p>Focus on avoiding common culprits this week.</p>",
+                                                "footerTrackText":"You have tracked {trackedDays} day{daysPlural}",
+                                                "footerTrackNote":"Track {totalDaysToBeTracked} days before this session expires",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Forgot how to track?\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TRACK_TALE"
+                                            },
+                                            {
+                                                "id":"carb_cutters.session_1.track.tracking_period.page1.card2",
+						                                    "imageUrl":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "description":"Would you like to start Session 2",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Yes, let's go!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "footerTrackText":"You have tracked {trackedDays} day{daysPlural}",
+                                                "footerTrackNote":"Well done!",
+                                                "cardType":"TRACK_TALE"
+                                            },
+                                            {
+                                                "id":"carb_cutters.session_1.track.tracking_period.page1.card3",
+						                                    "title":"Track carbs for {dayString}",
+                                                "description":"Log your intake of the common culprits below. If you avoided them completely select {avoidedCommonCulpritButtonText}",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalText":"Total carb count:",
+                                                "resetButton":"{\"vendorName\":\"\",\"text\":\"I avoided all the common culprits\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "addTrackingButton":"{\"vendorName\":\"\",\"text\":\"Add Carbs\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "noteHeader":"Add a personal note here",
+                                                "notePlaceHolder":"Tell us more",
+                                                "noteFooter":"140 character max",
+                                                "targetUnit":"g",
+                                                "targetType":"carbs",
+                                                "entriesMaxLimit":"30",
+                                                "daySubmittedText":"Submit Day",
+                                                "noteMaxCharLimit":"10",
+                                                "trackMethod":"MANUAL",
+                                                "itemPlaceholder":"food type",
+                                                "minDurationToTrack":{
+                                                    "value":1,
+                                                    "unit":"DAYS"
+                                                },
+                                                "itemList":"[{\"id\":\"it1\",\"displayName\":\"rice\",\"unit\":\"CUP\",\"multiplier\":250.0}]",
+                                                "startDate":"11-28-2017",
+                                                "trackLogList":"[{\"trackDate\":\"11-5-2017\",\"trackStatus\":\"INCOMPLETE\",\"updated\":\"2017-11-10T09:52:07.527Z\",\"itemQuantityList\":[{\"itemId\":\"it1\",\"quantity\":2}],\"userComment\":\"tiring\",\"trackMethod\":\"MANUAL\",\"vibeId\":\"v1\"}]",
+                                                "cardType":"TRACK_DATA"
+                                            },
+                                            {
+                                                "vibeType":"POSITIVE",
+                                                "id":"carb_cutters.session_1.track.tracking_period.page1.card5",
+					                                      "header":"Now tell me, which of these tweaks did you run into the most?",
+                                                "subHeader":"You must select one (one and only) to complete your tracking entry",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Done\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalGoalText":"Total carb count:",
+                                                "goalAchievedText":"You achieved your goal.",
+                                                "submissionData":{
+                                                    "header":"Header",
+                                                    "desc":"Description",
+                                                    "positiveCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                    "negativeCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                                },
+                                                "vibes":"[{\"id\":\"v1\",\"title\":\"Good Mood\",\"description\":\"I had a really good mood\",\"vibeType\":\"POSITIVE\"},{\"id\":\"v2\",\"vibeName\":\"vn2\",\"title\":\"Bad Mood\",\"description\":\"I had a really bad mood\",\"vibeType\":\"POSITIVE\"}, {\"id\":\"v3\",\"vibeName\":\"vn3\",\"title\":\"My wish\",\"description\":\"I have no idea\",\"vibeType\":\"POSITIVE\"}]",
+                                                "cardType":"TRACK_VIBE"
+                                            },
+                                            {
+                                                "vibeType":"NEGATIVE",
+                                                "id":"carb_cutters.session_1.track.tracking_period.page1.card4",
+                                                "header":"Now tell me, which of these triggers did you run into the most?",
+                                                "subHeader":"You must select one (one and only) to complete your tracking entry",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Done\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalGoalText":"Total carb count:",
+                                                "goalAchievedText":"You didnt achieve your goal.",
+                                                "submissionData":{
+                                                    "header":"Header",
+                                                    "desc":"Description",
+                                                    "positiveCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                    "negativeCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                                },
+                                                "vibes":"[{\"id\":\"v1\",\"title\":\"Negative Good Mood\",\"description\":\"I had a really negative good mood\",\"vibeType\":\"NEGATIVE\"},{\"id\":\"v2\",\"vibeName\":\"vn2\",\"title\":\"Negative Bad Mood\",\"description\":\"I had a really negative bad mood\",\"vibeType\":\"NEGATIVE\"}, {\"id\":\"v3\",\"vibeName\":\"vn3\",\"title\":\"My negative wish\",\"description\":\"I have no negative idea\",\"vibeType\":\"NEGATIVE\"}]",
+                                                "cardType":"TRACK_VIBE"
+                                            }
+                                        ],
+                                        "leftButton":"{\"vendorName\":\"\",\"text\":\"Back here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                        "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "carb_cutters.session_2":{
+                "id":"carb_cutters.session_2",
+                "order":1,
+                "currentDate":"2017-11-15",
+                "displayName":"Session 2",
+                "description":"Let's make a plan",
+                "sessionDuration":{
+                    "value":14,
+                    "unit":"DAYS"
+                },
+                "questPhaseList":[
+                    {
+                        "id":"carb_cutters.session_2.learn",
+                        "order":1,
+                        "displayName":"Learn",
+                        "categoryList":[
+                            {
+                                "id":"carb_cutters.session_2.learn.progress_review",
+                                "order":1,
+                                "displayName":"PROGRESS REVIEW",
+                                "categoryType" : "NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_2.learn.progress_review.page1",
+                                        "order":1,
+                                        "templateId":"PROGRESS_REVIEW",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_2.learn.progress_review.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Look at you! You made it to Session2 !!",
+                                                "subHeader":"sub header of vibe review",
+                                                "categoryList":[
+                                                    {
+                                                        "categoryName":"Days tracked:",
+                                                        "categoryValue":"7 or 8 IDK...."
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Trigger(s):",
+                                                        "categoryValue":"bad mood"
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Tweaks(s):",
+                                                        "categoryValue":"energized"
+                                                    }
+                                                ],
+                                                "description":"How was your first tracking session?",
+                                                "bottomDescription":"Bottom description goes here!",
+                                                "focusDescription":"",
+                                                "userFocus":[],
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"VIBE_REVIEW"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "duration":"2 min."
+                            },
+                            {
+                                "id":"carb_cutters.session_2.learn.lesson",
+                                "order":2,
+                                "displayName":"Lesson",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_2.learn.lesson.page1",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_2.lesson.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Let's talk about triggers",
+                                                "description":"Nice to meet you, Description goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Got it!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"ass\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                     "id":"carb_cutters.session_2.learn.lesson.page2",
+                                     "order": 2,
+                                     "templateId": "TRIGGER_AND_TWEAKS",
+                                     "cardList": [
+                             {
+                               "id": "carb_cutters.session_2.learn.lesson.page2.card1",
+                               "image": "http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                               "header": "Trigger and Tweaks header",
+                               "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+                               "cardType": "TALE"
+                             },
+                             {
+                               "id": "carb_cutters.session_2.learn.lesson.page2.card2",
+                               "visited": false,
+                               "vibes": [
+                                 {
+                                   "id": "v1",
+                                   "image": "alarm mute",
+                                   "header": "Bad mood",
+                                   "description": "Other people might pressure you to load up on carbs because they think you're being too strict with yourself (and maybe they want someone to split that pizza with). But you're the only captain of your food ship! Tell your friends, relatives, and coworkers that you're watching your carbs and can't be swayed. If you say it out loud, you'll be more likely to keep your word.</p>"
+                                 },
+                                 {
+                                   "id": "v2",
+                                   "image": "idea",
+                                   "header": "Good mood",
+                                   "description": "Idea Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                 },
+                                 {
+                                   "id": "v3",
+                                   "image": "mail square",
+                                   "header": "Multitasking",
+                                   "description": "Mailing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                 },
+                                 {
+                                   "id": "v4",
+                                   "image": "heartbeat",
+                                   "header": "Carbs",
+                                   "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                 },
+                                 {
+                                   "id": "v5",
+                                   "image": "hourglass end",
+                                   "header": "Restaurants",
+                                   "description": "Hourglass Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                 },
+                                 {
+                                   "id": "v6",
+                                   "image": "checked calendar",
+                                   "header": "Pressure",
+                                   "description": "Calender Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                 }
+                               ],
+                               "leftButton": "{\"vendorName\":\"\",\"text\":\"Previous Card\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                               "rightButton": "{\"vendorName\":\"\",\"text\":\"Next Card\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                               "middleButton": "{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                               "cardType": "VIBE"
+                             }
+                           ],
+                                    "leftButton": "{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                    "rightButton": "{\"vendorName\":\"\",\"text\":\"Moving On\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_2.learn.lesson.page3",
+                                        "order":3,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_2.learn.lesson.page3.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Make a Tweak!",
+                                                "description":"Once you know your trigger",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"BACK here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"next out\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                    "id":"carb_cutters.session_2.learn.lesson.page4",
+                                    "order": 4,
+                                    "templateId": "TRIGGER_AND_TWEAKS",
+                                    "cardList": [
+                             {
+                               "id": "carb_cutters.session_2.learn.lesson.page4.card1",
+                               "image": "http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                               "header": "Trigger and Tweaks header",
+                               "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+                               "cardType": "TALE"
+                             },
+                             {
+                               "id": "carb_cutters.session_2.learn.lesson.page4.card2",
+                               "visited": false,
+                               "vibes": [
+                                 {
+                                   "id": "v1",
+                                   "image": "alarm mute",
+                                   "header": "Bad mood",
+                                   "description": "<b>Trigger:</b> Social Pressure <br> <b>Tweak:</b> Be Your Own Boss<p>Other people might pressure you to load up on carbs because they think you're being too strict with yourself (and maybe they want someone to split that pizza with). But you're the only captain of your food ship! Tell your friends, relatives, and coworkers that you're watching your carbs and can't be swayed. If you say it out loud, you'll be more likely to keep your word.</p>"
+                                 },
+                                 {
+                                   "id": "v2",
+                                   "image": "idea",
+                                   "header": "Good mood",
+                                   "description": "<b>Trigger:</b> Social Pressure <br> <b>Tweak:</b> Be Your Own Boss<p>Idea Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                 },
+                                 {
+                                   "id": "v3",
+                                   "image": "mail square",
+                                   "header": "Multitasking",
+                                   "description": "<b>Trigger:</b> Social Pressure <br> <b>Tweak:</b> Be Your Own Boss<p>Mailing Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                 },
+                                 {
+                                   "id": "v4",
+                                   "image": "heartbeat",
+                                   "header": "Carbs",
+                                   "description": "<b>Trigger:</b> Social Pressure <br> <b>Tweak:</b> Be Your Own Boss<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                 },
+                                 {
+                                   "id": "v5",
+                                   "image": "hourglass end",
+                                   "header": "Restaurants",
+                                  "description": "<b>Trigger:</b> Social Pressure <br> <b>Tweak:</b> Be Your Own Boss<p>Hourglass Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                 },
+                                 {
+                                   "id": "v6",
+                                   "image": "checked calendar",
+                                   "header": "Pressure",
+                                   "description": "<b>Trigger:</b> Social Pressure <br> <b>Tweak:</b> Be Your Own Boss<p>Calender Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                 }
+                               ],
+                               "leftButton": "{\"vendorName\":\"\",\"text\":\"Previous Card\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                               "rightButton": "{\"vendorName\":\"\",\"text\":\"Next Card\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                               "middleButton": "{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                               "cardType": "VIBE"
+                             }
+                           ],
+                                    "leftButton": "{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                    "rightButton": "{\"vendorName\":\"\",\"text\":\"Moving On\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+
+                                    }
+                                ],
+                                "duration":"2 min."
+                            },
+                            {
+                                "id":"carb_cutters.session_2.learn.conclusion",
+                                "order":3,
+                                "displayName":"Conclusion",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_2.learn.conclusion.page1",
+                                        "order":1,
+                                        "templateId":"PROGRESS_REVIEW",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_2.learn.conclusion.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Look at you! You made it to Session2 !!",
+                                                "description":"How was your first tracking session?",
+                                                "categoryList":[
+                                                    {
+                                                        "categoryName":"Days tracked:",
+                                                        "categoryValue":"7"
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Trigger(s):",
+                                                        "categoryValue":"bad mood"
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Tweaks(s):",
+                                                        "categoryValue":"energized"
+                                                    }
+                                                ],
+                                                "bottomDescription":"Bottom description goes here!",
+                                                "focusDescription":"Focus description",
+                                                "userFocus":[
+                                                    {
+                                                        "focusAreaId":"carb_cutters.session_2.learn.conclusion.page1.card1.focusId1",
+                                                        "focusAreaText":"Text area 1",
+                                                        "focusValueOptions":[
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_2.learn.conclusion.page1.card1.focusId1.focus_value1",
+                                                                "focusValueText":"focus value 1"
+                                                            },
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_2.learn.conclusion.page1.card1.focusId1.focus_value2",
+                                                                "focusValueText":"focus value 2"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "focusAreaId":"carb_cutters.session_2.learn.conclusion.page1.card1.focusId2",
+                                                        "focusAreaText":"Text area 2",
+                                                        "focusValueOptions":[
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_2.learn.conclusion.page1.card1.focusId2.focus_value1",
+                                                                "focusValueText":"focus value 3"
+                                                            },
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_2.learn.conclusion.page1.card1.focusId2.focus_value1",
+                                                                "focusValueText":"focus value 4"
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"VIBE_REVIEW"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_2.learn.conclusion.page2",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_2.learn.conclusion.page2.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Great , Lets starts tracking!",
+                                                "description":"Nice to meet you, Description goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Got it!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"ass\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "duration":"2 min."
+                            }
+                        ]
+                    },
+                    {
+                        "id":"carb_cutters.session_2.track",
+                        "order":2,
+                        "displayName":"Track",
+                        "categoryList":[
+                            {
+                                "id":"carb_cutters.session_2.track.tracking_period",
+                                "order":1,
+                                "displayName":"Tracking Period",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_2.track.tracking_period.page1",
+                                        "order":1,
+                                        "templateId":"TRACK",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_2.track.tracking_period.page1.card1",
+                                                "header":"Time to track your carbs",
+                                                "imageUrl":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "contentText":"'<h5>Your daily goal is 250g carbs or less</h5><p>Focus on avoiding common culprits this week.</p>",
+                                                "footerTrackText":"You have tracked {trackedDays} day{daysPlural}",
+                                                "footerTrackNote":"Track {totalDaysToBeTracked} days before this session expires",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Forgot how to track?\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TRACK_TALE"
+                                            },
+                                            {
+                                                "id":"carb_cutters.session_2.track.tracking_period.page1.card2",
+                                                "title":"Your next session is open.",
+                                                "description":"Would you like to start Session 3",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Yes, let's go!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "footerTrackText":"You have tracked {trackedDays} day{daysPlural}",
+                                                "footerTrackNote":"Well done!",
+                                                "cardType":"TRACK_TALE"
+                                            },
+                                            {
+                                                "id":"carb_cutters.session_2.track.tracking_period.page1.card3",
+                                                "title":"Track carbs for {dayString}",
+                                                "description":"Log your intake of the common culprits below. If you avoided them completely select {avoidedCommonCulpritButtonText}",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalText":"Total carb count:",
+                                                "resetButton":"{\"vendorName\":\"\",\"text\":\"I avoided all the common culprits\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "addTrackingButton":"{\"vendorName\":\"\",\"text\":\"Add Carbs\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "noteHeader":"Add a personal note here",
+                                                "notePlaceHolder":"Tell us more",
+                                                "noteFooter":"140 character max",
+                                                "targetUnit":"g",
+                                                "targetType":"carbs",
+                                                "entriesMaxLimit":"30",
+                                                "daySubmittedText":"Submit Day",
+                                                "noteMaxCharLimit":"10",
+                                                "trackMethod":"MANUAL",
+                                                "itemPlaceholder":"food type",
+                                                "minDurationToTrack":{
+                                                    "value":7,
+                                                    "unit":"DAYS"
+                                                },
+                                                "itemList":"[{\"id\":\"it1\",\"displayName\":\"rice\",\"unit\":\"CUP\",\"multiplier\":250.0}]",
+                                                "startDate":"11-11-2017",
+                                                "trackLogList":"[{\"trackDate\":\"11-5-2017\",\"trackStatus\":\"INCOMPLETE\",\"updated\":\"2017-11-10T09:52:07.527Z\",\"itemQuantityList\":[{\"itemId\":\"it1\",\"quantity\":2}],\"userComment\":\"tiring\",\"trackMethod\":\"MANUAL\",\"vibeId\":\"v1\"}]",
+                                                "cardType":"TRACK_DATA"
+                                            },
+                                            {
+                                                "vibeType":"POSITIVE",
+                                                "id":"carb_cutters.session_2.track.tracking_period.page1.card5",
+                                                "header":"Now tell me, which of these tweaks did you run into the most?",
+                                                "subHeader":"You must select one (one and only) to complete your tracking entry",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Done\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalGoalText":"Total carb count:",
+                                                "goalAchievedText":"You achieved your goal.",
+                                                "submissionData":{
+                                                    "header":"Header",
+                                                    "desc":"Description",
+                                                    "positiveCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                    "negativeCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                                },
+                                                "vibes":"[{\"id\":\"v1\",\"title\":\"Good Mood\",\"description\":\"I had a really good mood\",\"vibeType\":\"POSITIVE\"},{\"id\":\"v2\",\"vibeName\":\"vn2\",\"title\":\"Bad Mood\",\"description\":\"I had a really bad mood\",\"vibeType\":\"POSITIVE\"}, {\"id\":\"v3\",\"vibeName\":\"vn3\",\"title\":\"My wish\",\"description\":\"I have no idea\",\"vibeType\":\"POSITIVE\"}]",
+                                                "cardType":"TRACK_VIBE"
+                                            },
+                                            {
+                                                "vibeType":"NEGATIVE",
+                                                "id":"carb_cutters.session_2.track.tracking_period.page1.card4",
+                                                "header":"Now tell me, which of these triggers did you run into the most?",
+                                                "subHeader":"You must select one (one and only) to complete your tracking entry",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Done\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalGoalText":"Total carb count:",
+                                                "goalAchievedText":"You didnt achieve your goal.",
+                                                "submissionData":{
+                                                    "header":"Header",
+                                                    "desc":"Description",
+                                                    "positiveCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                    "negativeCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                                },
+                                                "vibes":"[{\"id\":\"v1\",\"title\":\"Negative Good Mood\",\"description\":\"I had a really negative good mood\",\"vibeType\":\"NEGATIVE\"},{\"id\":\"v2\",\"vibeName\":\"vn2\",\"title\":\"Negative Bad Mood\",\"description\":\"I had a really negative bad mood\",\"vibeType\":\"NEGATIVE\"}, {\"id\":\"v3\",\"vibeName\":\"vn3\",\"title\":\"My negative wish\",\"description\":\"I have no negative idea\",\"vibeType\":\"NEGATIVE\"}]",
+                                                "cardType":"TRACK_VIBE"
+                                            }
+                                        ],
+                                        "leftButton":"{\"vendorName\":\"\",\"text\":\"Back here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                        "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "carb_cutters.session_3":{
+                "id":"carb_cutters.session_3",
+                "order":1,
+                "currentDate":"2017-11-15",
+                "displayName":"Session 3",
+                "description":"Focus on what's working",
+                "sessionDuration":{
+                    "value":14,
+                    "unit":"DAYS"
+                },
+                "questPhaseList":[
+                    {
+                        "id":"carb_cutters.session_3.learn",
+                        "order":1,
+                        "displayName":"Learn",
+                        "categoryList":[
+                            {
+                                "id":"carb_cutters.session_3.learn.progress_review",
+                                "order":1,
+                                "displayName":"PROGRESS REVIEW",
+                                "categoryType" : "NORMAL",
+                                "pageList":[
+                                    {
+                                      "id":"carb_cutters.session_3.learn.progress_review.page1",
+                                      "order":1,
+                                      "templateId":"PRIMARY",
+                                      "cardList":[
+                                       {
+                                          "id":"carb_cutters.session_3.learn.progress_review.page1.card1",
+                                          "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                          "header":"Carb-Cutters:What's it all about",
+                                          "description":"Nice to meet you, Description goes here!",
+                                          "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                          "rightButton":"{\"vendorName\":\"\",\"text\":\"Got it!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                          "middleButton":"{\"vendorName\":\"\",\"text\":\"ass\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                          "cardType":"TEXT"
+                                       }
+                                    ]
+                                    },
+
+                                    {
+                                        "id":"carb_cutters.session_3.learn.progress_review.page2",
+                                        "order":2,
+                                        "templateId":"PROGRESS_REVIEW",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_3.learn.progress_review.page2.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Look at you! You made it to Session2 !!",
+                                                "subHeader":"sub header of vibe review",
+                                                "categoryList":[
+                                                    {
+                                                        "categoryName":"Days tracked:",
+                                                        "categoryValue":"7 or 8 IDK...."
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Trigger(s):",
+                                                        "categoryValue":"bad mood"
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Tweaks(s):",
+                                                        "categoryValue":"energized"
+                                                    }
+                                                ],
+                                                "description":"How was your first tracking session?",
+                                                "bottomDescription":"Bottom description goes here!",
+                                                "focusDescription":"",
+                                                "userFocus":[],
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"VIBE_REVIEW"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "duration":"1 min."
+                            },
+                            {
+                                "id":"carb_cutters.session_3.learn.lesson",
+                                "order":2,
+                                "displayName":"Lesson",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_3.learn.lesson.page1",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_3.learn.lesson.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Let's talk about triggers",
+                                                "description":"Nice to meet you, Description goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Got it!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"ass\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                     "id":"carb_cutters.session_3.learn.lesson.page2",
+                                     "order": 2,
+                                     "templateId": "POSITIVE_FEELING",
+                                     "cardList": [
+                                     {
+                                        "id":"arb_cutters.session_3.learn.lesson.page2.card1",
+                                        "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                        "header":"Positive Feeling header",
+                                        "description":"Positive feeling description goes here!",
+                                        "feelingsContent":[
+                                           {
+                                              "iconId":"icon1",
+                                              "icon":"privacy",
+                                              "iconOrder":1,
+                                              "iconDescription":"icon description"
+                                           },
+                                           {
+                                              "iconId":"icon2",
+                                              "icon":"lab",
+                                              "iconOrder":2,
+                                              "iconDescription":"icon description"
+                                           },
+                                           {
+                                              "iconId":"icon3",
+                                              "icon":"options",
+                                              "iconOrder":3,
+                                              "iconDescription":"icon description"
+                                           },
+                                           {
+                                              "iconId":"icon4",
+                                              "icon":"wifi",
+                                              "iconOrder":4,
+                                              "iconDescription":"icon description"
+                                           }
+                                        ],
+                                        "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                        "rightButton":"{\"vendorName\":\"\",\"text\":\"Next\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                        "cardType":"FEELING"
+                                     }
+
+                           ],
+                                    "leftButton": "{}",
+                                    "rightButton": "{}"
+
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_3.learn.lesson.page3",
+                                        "order":3,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_3.learn.lesson.page3.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Here is the cool part.",
+                                                "description":"Once you know your trigger",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"BACK here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"next out\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                    "id":"carb_cutters.session_3.learn.lesson.page4",
+                                    "order":2,
+                                    "templateId":"QUIZ",
+                                    "cardList":[
+                                       {
+                                          "id":"carb_cutters.session_3.learn.lesson.page4.card1",
+                                          "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                          "header":"Quiz Tale Card Header",
+                                          "description":"Some description about the quiz",
+                                          "cardType":"TALE"
+                                       },
+                                       {
+                                          "id":"carb_cutters.session_3.learn.lesson.page4.card2",
+                                          "questions":[
+                                             {
+                                                "questionId":"question1",
+                                                "selectedOptionId":[
+
+                                                ],
+                                                "questionType":"RADIO",
+                                                "questionText":"Which is your favourite animal?",
+                                                "optionsList":[
+                                                   {
+                                                      "optionId":"option1",
+                                                      "optionText":"Cat",
+                                                      "description":"Cat is my favourite."
+                                                   },
+                                                   {
+                                                      "optionId":"option2",
+                                                      "optionText":"Dog",
+                                                      "description":"Dog is my favourite."
+                                                   }
+                                                ],
+                                                "correctAnswers":[
+                                                   "option1"
+                                                ],
+                                                "questionLeftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "questionRightButton":"{\"vendorName\":\"\",\"text\":\"Submit\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "answerLeftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "answerRightButton":"{\"vendorName\":\"\",\"text\":\"Next\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                             },
+                                             {
+                                                "questionId":"question2",
+                                                "selectedOptionId":[
+
+                                                ],
+                                                "questionType":"RADIO",
+                                                "questionText":"How do you feel?",
+                                                "optionsList":[
+                                                   {
+                                                      "optionId":"option1",
+                                                      "optionText":"I feel good!",
+                                                      "description":"some description"
+                                                   },
+                                                   {
+                                                      "optionId":"option2",
+                                                      "optionText":"I feel sad.",
+                                                      "description":"some decs"
+                                                   }
+                                                ],
+                                                "correctAnswers":[
+
+                                                ],
+                                                "questionLeftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "questionRightButton":"{\"vendorName\":\"\",\"text\":\"Next\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "answerLeftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "answerRightButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                             },
+                                             {
+                                                "questionId":"question3",
+                                                "selectedOptionId":[
+
+                                                ],
+                                                "questionType":"NO_OPTIONS",
+                                                "questionText":"This is a quiz card.",
+                                                "optionsList":[
+
+                                                ],
+                                                "correctAnswers":[
+
+                                                ],
+                                                "questionLeftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "questionRightButton":"{\"vendorName\":\"\",\"text\":\"Next\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "answerLeftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "answerRightButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                             }
+                                          ],
+                                          "cardType":"QUIZ"
+                                       }
+                                    ],
+                                    "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                    "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+
+                                    }
+                                ],
+                                "duration":"2 min."
+                            },
+                            {
+                                "id":"carb_cutters.session_3.learn.conclusion",
+                                "order":3,
+                                "displayName":"Conclusion",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_3.learn.conclusion.page1",
+                                        "order":1,
+                                        "templateId":"PROGRESS_REVIEW",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_3.learn.conclusion.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Look at you! You made it to Session2 !!",
+                                                "description":"How was your first tracking session?",
+                                                "categoryList":[
+                                                    {
+                                                        "categoryName":"Days tracked:",
+                                                        "categoryValue":"7"
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Trigger(s):",
+                                                        "categoryValue":"bad mood"
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Tweaks(s):",
+                                                        "categoryValue":"energized"
+                                                    }
+                                                ],
+                                                "bottomDescription":"Bottom description goes here!",
+                                                "focusDescription":"Focus description",
+                                                "userFocus":[
+                                                    {
+                                                        "focusAreaId":"carb_cutters.session_3.learn.conclusion.page1.card1.focusId1",
+                                                        "focusAreaText":"Text area 1",
+                                                        "focusValueOptions":[
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_3.learn.conclusion.page1.card1.focusId1.focus_value1",
+                                                                "focusValueText":"focus value 1"
+                                                            },
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_3.learn.conclusion.page1.card1.focusId1.focus_value2",
+                                                                "focusValueText":"focus value 2"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "focusAreaId":"carb_cutters.session_3.learn.conclusion.page1.card1.focusId2",
+                                                        "focusAreaText":"Text area 2",
+                                                        "focusValueOptions":[
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_3.learn.conclusion.page1.card1.focusId2.focus_value1",
+                                                                "focusValueText":"focus value 3"
+                                                            },
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_3.learn.conclusion.page1.card1.focusId2.focus_value1",
+                                                                "focusValueText":"focus value 4"
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"VIBE_REVIEW"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_3.learn.conclusion.page2",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_3.learn.conclusion.page2.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Go for it!",
+                                                "description":"Nice to meet you, Description goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Got it!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"ass\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "duration":"1 min."
+                            }
+                        ]
+                    },
+                    {
+                        "id":"carb_cutters.session_3.track",
+                        "order":2,
+                        "displayName":"Track",
+                        "categoryList":[
+                            {
+                                "id":"carb_cutters.session_3.track.tracking_period",
+                                "order":1,
+                                "displayName":"Tracking Period",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_3.track.tracking_period.page1",
+                                        "order":1,
+                                        "templateId":"TRACK",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_3.track.tracking_period.page1.card1",
+                                                "header":"Time to track your carbs",
+                                                "imageUrl":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "contentText":"'<h5>Your daily goal is 250g carbs or less</h5><p>Focus on avoiding common culprits this week.</p>",
+                                                "footerTrackText":"You have tracked {trackedDays} day{daysPlural}",
+                                                "footerTrackNote":"Track {totalDaysToBeTracked} days before this session expires",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Forgot how to track?\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TRACK_TALE"
+                                            },
+                                            {
+                                                "id":"carb_cutters.session_3.track.tracking_period.page1.card2",
+                                                "title":"Your next session is open.",
+                                                "description":"Would you like to start Session 4",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Yes, let's go!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "footerTrackText":"You have tracked {trackedDays} day{daysPlural}",
+                                                "footerTrackNote":"Well done!",
+                                                "cardType":"TRACK_TALE"
+                                            },
+                                            {
+                                                "id":"carb_cutters.session_3.track.tracking_period.page1.card3",
+                                                "title":"Track carbs for {dayString}",
+                                                "description":"Log your intake of the common culprits below. If you avoided them completely select {avoidedCommonCulpritButtonText}",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalText":"Total carb count:",
+                                                "resetButton":"{\"vendorName\":\"\",\"text\":\"I avoided all the common culprits\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "addTrackingButton":"{\"vendorName\":\"\",\"text\":\"Add Carbs\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "noteHeader":"Add a personal note here",
+                                                "notePlaceHolder":"Tell us more",
+                                                "noteFooter":"140 character max",
+                                                "targetUnit":"g",
+                                                "targetType":"carbs",
+                                                "entriesMaxLimit":"30",
+                                                "daySubmittedText":"Submit Day",
+                                                "noteMaxCharLimit":"10",
+                                                "trackMethod":"MANUAL",
+                                                "itemPlaceholder":"food type",
+                                                "minDurationToTrack":{
+                                                    "value":7,
+                                                    "unit":"DAYS"
+                                                },
+                                                "itemList":"[{\"id\":\"it1\",\"displayName\":\"rice\",\"unit\":\"CUP\",\"multiplier\":250.0}]",
+                                                "startDate":"11-11-2017",
+                                                "trackLogList":"[{\"trackDate\":\"11-5-2017\",\"trackStatus\":\"INCOMPLETE\",\"updated\":\"2017-11-10T09:52:07.527Z\",\"itemQuantityList\":[{\"itemId\":\"it1\",\"quantity\":2}],\"userComment\":\"tiring\",\"trackMethod\":\"MANUAL\",\"vibeId\":\"v1\"}]",
+                                                "cardType":"TRACK_DATA"
+                                            },
+                                            {
+                                                "vibeType":"POSITIVE",
+                                                "id":"carb_cutters.session_3.track.tracking_period.page1.card5",
+                                                "header":"Now tell me, which of these tweaks did you run into the most?",
+                                                "subHeader":"You must select one (one and only) to complete your tracking entry",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Done\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalGoalText":"Total carb count:",
+                                                "goalAchievedText":"You achieved your goal.",
+                                                "submissionData":{
+                                                    "header":"Header",
+                                                    "desc":"Description",
+                                                    "positiveCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                    "negativeCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                                },
+                                                "vibes":"[{\"id\":\"v1\",\"title\":\"Good Mood\",\"description\":\"I had a really good mood\",\"vibeType\":\"POSITIVE\"},{\"id\":\"v2\",\"vibeName\":\"vn2\",\"title\":\"Bad Mood\",\"description\":\"I had a really bad mood\",\"vibeType\":\"POSITIVE\"}, {\"id\":\"v3\",\"vibeName\":\"vn3\",\"title\":\"My wish\",\"description\":\"I have no idea\",\"vibeType\":\"POSITIVE\"}]",
+                                                "cardType":"TRACK_VIBE"
+                                            },
+                                            {
+                                                "vibeType":"NEGATIVE",
+                                                "id":"carb_cutters.session_3.track.tracking_period.page1.card4",
+                                                "header":"Now tell me, which of these triggers did you run into the most?",
+                                                "subHeader":"You must select one (one and only) to complete your tracking entry",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Done\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalGoalText":"Total carb count:",
+                                                "goalAchievedText":"You didnt achieve your goal.",
+                                                "submissionData":{
+                                                    "header":"Header",
+                                                    "desc":"Description",
+                                                    "positiveCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                    "negativeCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                                },
+                                                "vibes":"[{\"id\":\"v1\",\"title\":\"Negative Good Mood\",\"description\":\"I had a really negative good mood\",\"vibeType\":\"NEGATIVE\"},{\"id\":\"v2\",\"vibeName\":\"vn2\",\"title\":\"Negative Bad Mood\",\"description\":\"I had a really negative bad mood\",\"vibeType\":\"NEGATIVE\"}, {\"id\":\"v3\",\"vibeName\":\"vn3\",\"title\":\"My negative wish\",\"description\":\"I have no negative idea\",\"vibeType\":\"NEGATIVE\"}]",
+                                                "cardType":"TRACK_VIBE"
+                                            }
+                                        ],
+                                        "leftButton":"{\"vendorName\":\"\",\"text\":\"Back here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                        "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            "carb_cutters.session_4":{
+                "id":"carb_cutters.session_4",
+                "order":1,
+                "currentDate":"2017-11-15",
+                "displayName":"Session 4",
+                "description":"Let's keep a good thing going",
+                "sessionDuration":{
+                    "value":14,
+                    "unit":"DAYS"
+                },
+                "questPhaseList":[
+                    {
+                        "id":"carb_cutters.session_4.learn",
+                        "order":1,
+                        "displayName":"Learn",
+                        "categoryList":[
+                            {
+                                "id":"carb_cutters.session_4.learn.progress_review",
+                                "order":1,
+                                "displayName":"PROGRESS REVIEW",
+                                "categoryType" : "NORMAL",
+                                "pageList":[
+                                    {
+                                      "id":"carb_cutters.session_4.learn.progress_review.page1",
+                                      "order":1,
+                                      "templateId":"PRIMARY",
+                                      "cardList":[
+                                       {
+                                          "id":"carb_cutters.session_4.learn.progress_review.page1.card1",
+                                          "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                          "header":"Carb-Cutters:What's it all about",
+                                          "description":"It's your final session.",
+                                          "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                          "rightButton":"{\"vendorName\":\"\",\"text\":\"Got it!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                          "middleButton":"{\"vendorName\":\"\",\"text\":\"ass\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                          "cardType":"TEXT"
+                                       }
+                                    ]
+                                    },
+
+                                    {
+                                        "id":"carb_cutters.session_4.learn.progress_review.page2",
+                                        "order":2,
+                                        "templateId":"PROGRESS_REVIEW",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_4.learn.progress_review.page2.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Look at you! You made it to Session2 !!",
+                                                "subHeader":"sub header of vibe review",
+                                                "categoryList":[
+                                                    {
+                                                        "categoryName":"Days tracked:",
+                                                        "categoryValue":"7 or 8 IDK...."
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Trigger(s):",
+                                                        "categoryValue":"bad mood"
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Tweaks(s):",
+                                                        "categoryValue":"energized"
+                                                    }
+                                                ],
+                                                "description":"How was your first tracking session?",
+                                                "bottomDescription":"Bottom description goes here!",
+                                                "focusDescription":"",
+                                                "userFocus":[],
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"VIBE_REVIEW"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "duration":"1 min."
+                            },
+                            {
+                                "id":"carb_cutters.session_4.learn.lesson",
+                                "order":2,
+                                "displayName":"Lesson",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_4.learn.lesson.page1",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_4.learn.lesson.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"So, where we go from Heartbeat",
+                                                "description":"Nice to meet you, Description goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Got it!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"ass\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                    "id":"carb_cutters.session_4.learn.lesson.page2",
+                                    "order":2,
+                                    "templateId":"REVIEW_TRIGGERS_AND_TWEAKS",
+                                    "cardList":[
+                                       {
+                                          "id":"carb_cutters.session_4.learn.lesson.page2.card1",
+                                          "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                          "header":"Review Triggers and tweaks Header",
+                                          "description":"Review Triggers and tweaks description",
+                                          "cardType":"TALE"
+                                       },
+                                       {
+                                          "id":"carb_cutters.session_4.learn.lesson.page2.card2",
+                                          "moodList":[
+                                             {
+                                                "image":"ticket",
+                                                "header":"Header goes here!",
+                                                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                             },
+                                             {
+                                                "image":"alarm",
+                                                "header":"Header goes here with some more text!",
+                                                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                             },
+                                             {
+                                                "image":"history",
+                                                "header":"Header goes here! and something more",
+                                                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                             },
+                                             {
+                                                "image":"wifi",
+                                                "header":"Header goes here! may not",
+                                                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                             },
+                                             {
+                                                "image":"alarm mute",
+                                                "header":"Header goes here! walla",
+                                                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+                                             },
+                                             {
+                                                "image":"paint brush",
+                                                "header":"Header goes here!",
+                                                "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+                                             }
+                                          ],
+                                          "cardType":"MOOD"
+                                       }
+                                    ],
+                                    "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                    "rightButton":"{\"vendorName\":\"\",\"text\":\"Next\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_4.learn.lesson.page3",
+                                        "order":3,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_4.learn.lesson.page3.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Notice any common themes?",
+                                                "description":"Once you know your trigger",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"BACK here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"next out\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                    "id":"carb_cutters.session_4.learn.lesson.page4",
+                                    "order":2,
+                                    "templateId":"QUIZ",
+                                    "cardList":[
+                                       {
+                                          "id":"carb_cutters.session_4.learn.lesson.page4.card1",
+                                          "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                          "header":"Anywhere you go, there you are.",
+                                          "description":"Some description about the quiz",
+                                          "cardType":"TALE"
+                                       },
+                                       {
+                                       "id":"carb_cutters.session_4.learn.lesson.page4.card2",
+                                       "alternativesList":[
+                                          {
+                                             "image":"signal",
+                                             "header":"Header goes here! Signal",
+                                             "description":" <ul><li >Always, always make a list. You can go old-style and do it on paper, email it to yourself, or even get fancy and download a dedicated app. Then, stick to your list.</li><li>If you're not the primary grocery shopper in your house, consider taking that duty over...unless your partner has also committed to the low-carb life!</li><li>Avoid shopping on an empty stomach. Hunger and low blood sugar can easily cloud your judgment and make you prone to impulse buys. If you can't avoid it, chew a piece of sugar-free gum to take your mind off your hunger.</li></ul>",
+                                             "subHeader":"It's hard to eat what you don't have! So consider every grocery store run an opportunity to set yourself up for success in the days to come. Here are a few tips to get you started."
+                                          },
+                                          {
+                                             "image":"heart",
+                                             "header":"Heart header 2",
+                                             "description":"<ul><li><b>Stress response:</b></li><li>Lashing out at someone</li><li>Eating too much</li><li>Eating too little</li><li>Putting off a responsibility</li><li>Avoiding someone</li><li>Making an unnecessary purchase</li><li>Crying</li><li>Using a substance to cope</li></ul>",
+                                             "subHeader":"sub header"
+                                          }
+                                       ],
+                                       "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                       "rightButton":"{\"vendorName\":\"\",\"text\":\"Next\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                       "middleButton":"{\"vendorName\":\"\",\"text\":\"No Idea\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                       "cardType":"BULLETIN"
+                                       }
+                                    ],
+                                    "leftButton":"{}",
+                                    "rightButton":"{}"
+
+                                    }
+                                ],
+                                "duration":"2 min."
+                            },
+                            {
+                                "id":"carb_cutters.session_4.learn.conclusion",
+                                "order":3,
+                                "displayName":"Conclusion",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_4.learn.conclusion.page1",
+                                        "order":1,
+                                        "templateId":"PROGRESS_REVIEW",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_4.learn.conclusion.page1.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Look at you! You made it to Session2 !!",
+                                                "description":"How was your first tracking session?",
+                                                "categoryList":[
+                                                    {
+                                                        "categoryName":"Days tracked:",
+                                                        "categoryValue":"7"
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Trigger(s):",
+                                                        "categoryValue":"bad mood"
+                                                    },
+                                                    {
+                                                        "categoryName":"Most common Tweaks(s):",
+                                                        "categoryValue":"energized"
+                                                    }
+                                                ],
+                                                "bottomDescription":"Bottom description goes here!",
+                                                "focusDescription":"Focus description",
+                                                "userFocus":[
+                                                    {
+                                                        "focusAreaId":"carb_cutters.session_4.learn.conclusion.page1.card1.focusId1",
+                                                        "focusAreaText":"Text area 1",
+                                                        "focusValueOptions":[
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_4.learn.conclusion.page1.card1.focusId1.focus_value1",
+                                                                "focusValueText":"focus value 1"
+                                                            },
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_4.learn.conclusion.page1.card1.focusId1.focus_value2",
+                                                                "focusValueText":"focus value 2"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "focusAreaId":"carb_cutters.session_4.learn.conclusion.page1.card1.focusId2",
+                                                        "focusAreaText":"Text area 2",
+                                                        "focusValueOptions":[
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_4.learn.conclusion.page1.card1.focusId2.focus_value1",
+                                                                "focusValueText":"focus value 3"
+                                                            },
+                                                            {
+                                                                "focusValueId":"carb_cutters.session_4.learn.conclusion.page1.card1.focusId2.focus_value1",
+                                                                "focusValueText":"focus value 4"
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"VIBE_REVIEW"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "id":"carb_cutters.session_4.learn.conclusion.page2",
+                                        "order":1,
+                                        "templateId":"PRIMARY",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_4.learn.conclusion.page2.card1",
+                                                "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "header":"Off you go!",
+                                                "description":"Nice to meet you, Description goes here!",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Got it!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "middleButton":"{\"vendorName\":\"\",\"text\":\"ass\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TEXT"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "duration":"1 min."
+                            }
+                        ]
+                    },
+                    {
+                        "id":"carb_cutters.session_4.track",
+                        "order":2,
+                        "displayName":"Track",
+                        "categoryList":[
+                            {
+                                "id":"carb_cutters.session_4.track.tracking_period",
+                                "order":1,
+                                "displayName":"Tracking Period",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_4.track.tracking_period.page1",
+                                        "order":1,
+                                        "templateId":"TRACK",
+                                        "cardList":[
+                                            {
+                                                "id":"carb_cutters.session_4.track.tracking_period.page1.card1",
+                                                "header":"Time to track your carbs",
+                                                "imageUrl":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                                "contentText":"'<h5>Your daily goal is 250g carbs or less</h5><p>Focus on avoiding common culprits this week.</p>",
+                                                "footerTrackText":"You have tracked {trackedDays} day{daysPlural}",
+                                                "footerTrackNote":"Track {totalDaysToBeTracked} days before this session expires",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Forgot how to track?\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "cardType":"TRACK_TALE"
+                                            },
+                                            {
+                                                "id":"carb_cutters.session_4.track.tracking_period.page1.card2",
+                                                "title":"Your next session is open.",
+                                                "description":"Would you like to start Session 4",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Yes, let's go!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "footerTrackText":"You have tracked {trackedDays} day{daysPlural}",
+                                                "footerTrackNote":"Well done!",
+                                                "cardType":"TRACK_TALE"
+                                            },
+                                            {
+                                                "id":"carb_cutters.session_4.track.tracking_period.page1.card3",
+                                                "title":"Track carbs for {dayString}",
+                                                "description":"Log your intake of the common culprits below. If you avoided them completely select {avoidedCommonCulpritButtonText}",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalText":"Total carb count:",
+                                                "resetButton":"{\"vendorName\":\"\",\"text\":\"I avoided all the common culprits\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "addTrackingButton":"{\"vendorName\":\"\",\"text\":\"Add Carbs\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "noteHeader":"Add a personal note here",
+                                                "notePlaceHolder":"Tell us more",
+                                                "noteFooter":"140 character max",
+                                                "targetUnit":"g",
+                                                "targetType":"carbs",
+                                                "entriesMaxLimit":"30",
+                                                "daySubmittedText":"Submit Day",
+                                                "noteMaxCharLimit":"10",
+                                                "trackMethod":"MANUAL",
+                                                "itemPlaceholder":"food type",
+                                                "minDurationToTrack":{
+                                                    "value":7,
+                                                    "unit":"DAYS"
+                                                },
+                                                "itemList":"[{\"id\":\"it1\",\"displayName\":\"rice\",\"unit\":\"CUP\",\"multiplier\":250.0}]",
+                                                "startDate":"11-11-2017",
+                                                "trackLogList":"[{\"trackDate\":\"11-5-2017\",\"trackStatus\":\"INCOMPLETE\",\"updated\":\"2017-11-10T09:52:07.527Z\",\"itemQuantityList\":[{\"itemId\":\"it1\",\"quantity\":2}],\"userComment\":\"tiring\",\"trackMethod\":\"MANUAL\",\"vibeId\":\"v1\"}]",
+                                                "cardType":"TRACK_DATA"
+                                            },
+                                            {
+                                                "vibeType":"POSITIVE",
+                                                "id":"carb_cutters.session_4.track.tracking_period.page1.card5",
+                                                "header":"Now tell me, which of these tweaks did you run into the most?",
+                                                "subHeader":"You must select one (one and only) to complete your tracking entry",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Done\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalGoalText":"Total carb count:",
+                                                "goalAchievedText":"You achieved your goal.",
+                                                "submissionData":{
+                                                    "header":"Header",
+                                                    "desc":"Description",
+                                                    "positiveCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                    "negativeCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                                },
+                                                "vibes":"[{\"id\":\"v1\",\"title\":\"Good Mood\",\"description\":\"I had a really good mood\",\"vibeType\":\"POSITIVE\"},{\"id\":\"v2\",\"vibeName\":\"vn2\",\"title\":\"Bad Mood\",\"description\":\"I had a really bad mood\",\"vibeType\":\"POSITIVE\"}, {\"id\":\"v3\",\"vibeName\":\"vn3\",\"title\":\"My wish\",\"description\":\"I have no idea\",\"vibeType\":\"POSITIVE\"}]",
+                                                "cardType":"TRACK_VIBE"
+                                            },
+                                            {
+                                                "vibeType":"NEGATIVE",
+                                                "id":"carb_cutters.session_4.track.tracking_period.page1.card4",
+                                                "header":"Now tell me, which of these triggers did you run into the most?",
+                                                "subHeader":"You must select one (one and only) to complete your tracking entry",
+                                                "leftButton":"{\"vendorName\":\"\",\"text\":\"Back\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "rightButton":"{\"vendorName\":\"\",\"text\":\"Done\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                "totalGoalText":"Total carb count:",
+                                                "goalAchievedText":"You didnt achieve your goal.",
+                                                "submissionData":{
+                                                    "header":"Header",
+                                                    "desc":"Description",
+                                                    "positiveCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                                    "negativeCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                                },
+                                                "vibes":"[{\"id\":\"v1\",\"title\":\"Negative Good Mood\",\"description\":\"I had a really negative good mood\",\"vibeType\":\"NEGATIVE\"},{\"id\":\"v2\",\"vibeName\":\"vn2\",\"title\":\"Negative Bad Mood\",\"description\":\"I had a really negative bad mood\",\"vibeType\":\"NEGATIVE\"}, {\"id\":\"v3\",\"vibeName\":\"vn3\",\"title\":\"My negative wish\",\"description\":\"I have no negative idea\",\"vibeType\":\"NEGATIVE\"}]",
+                                                "cardType":"TRACK_VIBE"
+                                            }
+                                        ],
+                                        "leftButton":"{\"vendorName\":\"\",\"text\":\"Back here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                        "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                    }
+                                ]
+                            },
+                            {
+                              "id":"carb_cutters.session_4.track.conclusion",
+                              "order":2,
+                              "displayName":"conclusion",
+                              "categoryType":"NORMAL",
+                              "pageList":[
+                                {
+                                "id":"carb_cutters.session_4.track.conclusion.page1",
+                                "order":1,
+                                "templateId":"PROGRESS_REVIEW",
+                                "cardList":[
+                                   {
+                                      "id":"carb_cutters.session_4.track.conclusion.page1.card1",
+                                      "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                      "header":"You did it",
+                                      "subHeader":"sub header of vibe review",
+                                      "categoryList":[
+                                         {
+                                            "categoryName":"Days tracked:",
+                                            "categoryValue":"7 or 8 IDK...."
+                                         },
+                                         {
+                                            "categoryName":"Most common Trigger(s):",
+                                            "categoryValue":"bad mood"
+                                         },
+                                         {
+                                            "categoryName":"Most common Tweaks(s):",
+                                            "categoryValue":"energized"
+                                         }
+                                      ],
+                                      "description":"How was your first tracking session?",
+                                      "bottomDescription":"Bottom description goes here!",
+                                      "focusDescription":"",
+                                      "userFocus":[],
+                                      "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                      "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                      "middleButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                      "cardType":"VIBE_REVIEW"
+                                   }
+                                ]
+                                },
+                                {
+                                "id":"carb_cutters.session_4.track.conclusion.page2",
+                                "order":2,
+                                "templateId":"FEEDBACK",
+                                "cardList":[
+                                   {
+                                      "id":"carb_cutters.session_4.track.conclusion.page2.card1",
+                                      "header":"But first!",
+                                      "image":"http://www.freepngimg.com/download/cartoon/4-2-cartoon-transparent.png",
+                                      "feedbackQuestionModelList":[
+                                         {
+                                            "questionId":"q1",
+                                            "questionType":"RADIO",
+                                            "questionText":"how did you feel!",
+                                            "selectedOptionId":[
+
+                                            ],
+                                            "optionsList":[
+                                               {
+                                                  "optionId":"o1",
+                                                  "optionText":"yes",
+                                                  "description":""
+                                               },
+                                               {
+                                                  "optionId":"o2",
+                                                  "optionText":"no",
+                                                  "description":""
+                                               }
+                                            ]
+                                         },
+                                         {
+                                            "questionId":"q2",
+                                            "questionType":"RADIO",
+                                            "questionText":"was it a good experience?",
+                                            "selectedOptionId":[
+
+                                            ],
+                                            "optionsList":[
+                                               {
+                                                  "optionId":"o1",
+                                                  "optionText":"yes",
+                                                  "description":""
+                                               },
+                                               {
+                                                  "optionId":"o2",
+                                                  "optionText":"no",
+                                                  "description":""
+                                               }
+                                            ]
+                                         }
+                                      ],
+                                      "description":"Before you get all teary-eyed.",
+                                      "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                      "noFeedbackButton":"{\"vendorName\":\"\",\"text\":\"No Thanks\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                      "rightButton":"{\"vendorName\":\"\",\"text\":\"Here's my feedback!\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                      "cardType":"FEEDBACK"
+                                   }
+                                ]
+
+                                }
+                          ],
+                             "duration":"1 min."
+                            },
+
+                            {
+                                "id":"carb_cutters.session_4.track.completion_certificate",
+                                "order":1,
+                                "displayName":"Completion Certificate",
+                                "categoryType":"NORMAL",
+                                "pageList":[
+                                    {
+                                        "id":"carb_cutters.session_4.track.completion_certificate.page1",
+                                        "order":1,
+                                        "templateId":"CERTIFICATE",
+                                        "cardList":[
+                                            {
+
+                                               "id":"carb_cutters.session_1.learn.welcome.page1.card1",
+                                               "coachImage":"https://images.vexels.com/media/users/3/144238/isolated/preview/ffb3ffd037d6ce09fb200b81605bd45f-old-doctor-character-by-vexels.png",
+                                               "signatureImage":"https://upload.wikimedia.org/wikipedia/commons/0/00/Todd_Strasser_signature.png",
+                                               "header":"John Q. Public conquered the Crab Cutters HealthQuest on October 28, 2017 ",
+                                               "description":"Digital Instructor:",
+                                               "leftButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                               "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                               "certificateDownloadButton":"{\"vendorName\":\"\",\"text\":\"Print certificate\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+                                               "cardType":"CERTIFICATE"
+                                            }
+                                        ],
+                                        "leftButton":"{}",
+                                        "rightButton":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+                                    }
+                                ],
+                                "duration":"2 min."
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "itemMap":{
+            "it1":{
+                "id":"Item1",
+                "displayName":"White Rice",
+                "unit":"CUP",
+                "multiplier":45.0
+            },
+            "it2":{
+                "id":"Item2",
+                "displayName":"White Bread",
+                "unit":"CUP",
+                "multiplier":15.0
+            },
+            "it3":{
+                "id":"Item3",
+                "displayName":"Potatoes",
+                "unit":"CUP",
+                "multiplier":37.0
+            }
+        },
+        "positiveVibes":[
+            {
+                "id":"id",
+                "title":"title",
+                "description":"description"
+            }
+        ],
+        "negativeVibes":[
+            {
+                "id":"id",
+                "title":"title",
+                "description":"description"
+            }
+        ],
+        "minTrackDays":7,
+        "target":{
+            "value":250.0,
+            "comparator":"LESS_THAN_EQUAL_TO"
+        },
+        "expirationPopup":{
+            "header":"Header of exp of popUp!",
+            "desc":"Description",
+            "positiveCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}",
+            "negativeCta":"{\"vendorName\":\"\",\"text\":\"Click here\",\"type\":\"HREF\",\"action\":\"\",\"icon\":\"\"}"
+        }
+    }
+]
